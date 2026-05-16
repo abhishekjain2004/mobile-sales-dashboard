@@ -99,9 +99,12 @@ Same Period Last Year = CALCULATE([Total_Sales], SAMEPERIODLASTYEAR(Custom_Calen
 
 > Add screenshots after opening the .pbix file in Power BI Desktop
 
-![Main Dashboard](images/dashboard_main.png)
-![MTD Report](images/mtd_report.png)
-![Same Period Last Year](images/sply_report.png)
+![Main Dashboard]<img width="1920" height="968" alt="Dashboard_main" src="https://github.com/user-attachments/assets/749208ab-95a5-4c5e-a4e2-2f4ed282ebda" />
+
+![MTD Report]<img width="1920" height="984" alt="MTD_report" src="https://github.com/user-attachments/assets/8ab6e139-aabc-416f-8c1c-96d79df300e3" />
+
+![Same Period Last Year]<img width="1920" height="981" alt="sply_report" src="https://github.com/user-attachments/assets/4dc0c20f-3ba5-44fc-814b-9d9fe660054f" />
+
 
 ---
 
