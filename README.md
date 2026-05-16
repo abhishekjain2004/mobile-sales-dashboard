@@ -97,7 +97,6 @@ Same Period Last Year = CALCULATE([Total_Sales], SAMEPERIODLASTYEAR(Custom_Calen
 
 ## 📸 Dashboard Screenshots
 
-> Add screenshots after opening the .pbix file in Power BI Desktop
 
 ![Main Dashboard]<img width="1920" height="968" alt="Dashboard_main" src="https://github.com/user-attachments/assets/749208ab-95a5-4c5e-a4e2-2f4ed282ebda" />
 
